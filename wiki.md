@@ -31,23 +31,37 @@ Once you are logged in to the club's Zapier account, move your curser to the lef
 
 Move the cursor over the left sidebar and expose the navigation menu. Select the Tables nav item to open the Tables landing page.
 
-### Zapier Tables landing page
+## Zapier Tables
 
-### Change the display order of Zapier Tables
+### The Zapier Tables landing page
+
+The Zapier Tables landing page will display all the tables to which you are given permission to view by the site administrator. If you don't see the Zapier Tables that you need, ask the administrator to change your permission access.
+
+Team members are assigned one of 2 table permissions; viewer or editor. A *viewer* can view ( read ) the table, but cannot edit it. An *editor* can both view and edit a table.
+
+### Change the display order of Zapier Tables on the landing page
+
+By default, Zapier Tables names are ordered by numbers ( 0 -9 ) followed by letters ( A-Z ).
+
+To change the display order of Zapier Tables, move your cursor to the Zapier Tables table header. Click on the 'Name' field. The directional arrow will change ( up / down ) on each click. The order of the table names will change based on the arrow direction of the 'Name' label. 
+
+Changing the order of the Zapier Tables in your table view can help you sort and find the tables that you plan to open.
+
+*Add: GIF to demo reordering of names.*
 
 ### Open a Zapier Table 
 
-### Navigating between an open Zapier Table and the Tables landing page
+### Navigate from an open Zapier Table back to the Tables landing page
 
-### Table and Record view within a Zapier Table
+### Table and Record views within a Zapier Table
 
-### Search within a Zapier Table 
+### Find a value within a Zapier Table 
 
 ### Add a row within a Zapier Table 
 
 ### Edit a new or existing row within a Zapier Table
 
-### Delete a row within a Zapier Table
+### Show / Hide columns within a Zapier Table
 
 ### Sort Table columns alphabetically
 
@@ -55,12 +69,12 @@ Move the cursor over the left sidebar and expose the navigation menu. Select the
 
 ### Save a filter as a custom view
 
-### Access a saved custom view
+### Retrieve a saved custom view
 
-### Show / Hide columns within a Zapier Table 
-
-### Counting Table rows
+### Count Table rows
 
 ### Sum a count in a Table column
 
-### Viewing ( reading ) data from a Zapier Table
+### View ( read ) data from a Zapier Table
+
+### Delete a row within a Zapier Table
