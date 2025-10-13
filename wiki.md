@@ -35,44 +35,61 @@ Move the cursor over the left sidebar and expose the navigation menu. Select the
 
 ### The Zapier Tables landing page
 
-The Zapier Tables landing page will display all the tables to which you are given permission to view by the site administrator. If you don't see the Zapier Tables that you need, ask the administrator to change your permission access.
+![Zapier Tables landing page](/images/Zapier_Tables_landing_page.png)
 
-Team members are assigned one of 2 table permissions; viewer or editor. A *viewer* can view ( read ) the table, but cannot edit it. An *editor* can both view and edit a table.
+The Zapier Tables landing page will display all the tables that you are permitted to view by the site administrator. If you don't see a Zapier Table listed on the Tables landing page, ask the administrator to change your permission access.
+
+Team members are assigned one of 2 table permissions; *viewer* or *editor*. A *viewer* can view ( read ) the table, but cannot edit it. An *editor* can both view and edit a table.
 
 ### Change the display order of Zapier Tables on the landing page
 
-By default, Zapier Tables names are ordered by numbers ( 0 -9 ) followed by letters ( A-Z ).
+By default, Zapier Tables names are ordered by numbers ( 0 -9 ) followed by letters ( A-Z ). Table file names that begin with a number ( e.g. 2025 ) appear at the top of the landing page before file names that begin with a letter. 
 
-To change the display order of Zapier Tables, move your cursor to the Zapier Tables table header. Click on the 'Name' field. The directional arrow will change ( up / down ) on each click. The order of the table names will change based on the arrow direction of the 'Name' label. 
+![Zapier_Tables_reorder_table_names](/gifs/Zapier_Tables_reorder_table_names.gif)
 
-Changing the order of the Zapier Tables in your table view can help you sort and find the tables that you plan to open.
+Sort and find the tables that you plan to open by changing the order of Zapier Table names displayed on the landing page.
 
-*Add: GIF to demo reordering of names.*
+Move your cursor over the 'Name' label at the top of the Tables page and click the label. The directional arrow will change ( up / down ) on each click. The order of table names will also change based on the direction of the arrow. 
 
-### Open a Zapier Table 
+### Open a Zapier Table
 
-- Populate a dev Zapier Table to open. 
-- That way, any names visible in the image won't compromise security. 
+![Zapier_Tables_open_table_from_Tables_landing_page](/gifs/Zapier_Tables_open_table_from_Tables_landing_page.gif)
+
+Move your cursor over the name of a Zapier Table and click the table name to open it. The table will open in the same browser tab as the Tables landing page. 
 
 ### Navigate from an open Zapier Table back to the Tables landing page
 
-- Add a GIF demonstrating the toggle back and forth between the Zapier Tables landing page and the open Zapier Table.
+![Zapier_Tables_table_navigation_items](/images/Zapier_Tables_table_nav_items.png)
+
+1) To return to the *Tables landing page* from within an open table, click the 'Tables' label in the upper left corner of the browser window. 
+
+2) To return to the *Zapier home page*, move your cursor over the house icon in the top left corner of the browser, and click. 
+
+### Navigate Between Multiple Zapier Tables Open at the Same Time
+
+![Zapier_Tables_4_browser_tabs_open_at_once](/images/Zapier_Tables_4_browser_tabs_open.png)
+
+To access 2 or more Zapier Tables at the same time, open each table in a separate browser tab. Select the table you want to view by navigating between tabs.  
+
+In the example above, 4 tabs are shown side-by-side. From left to right, they include the Zapier Tables landing page ( main table navigation ), and 3 membership tables. 
+
+> STOP 10-13-2025
 
 ### Table and Record views within a Zapier Table
 
 - The default view of a Zapier Table is a table view.
-- Add GIF demonstrating the record view. Focus on the popup that opens on the right side of the screen.
+- *Add GIF demonstrating the record view. Focus on the popup that opens on the right side of the screen.*
 
 ### Find a value within a Zapier Table 
 
 - Focus on the 'Search' field in the upper right corner of the screen.
 - Alt: use the keyboard shortcut 'Command + F' to open the search field.
 
-- Add GIF to demonstrate using the search field. 
+- *Add GIF to demonstrate using the search field.* 
 
 ### Add a row within a Zapier Table 
 
-- Add GIF: focus on the 'Add Record' button on the bottom left of the screen.
+- *Add GIF: focus on the 'Add Record' button on the bottom left of the screen.*
 
 ### Edit a new or existing row within a Zapier Table
 
