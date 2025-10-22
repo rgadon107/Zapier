@@ -73,12 +73,24 @@ To access 2 or more Zapier Tables at the same time, open each table in a separat
 
 In the example above, 4 tabs are shown side-by-side. From left to right, they include the Zapier Tables landing page ( main table navigation ), and 3 membership tables. 
 
-> STOP 10-13-2025
-
 ### Table and Record views within a Zapier Table
 
-- The default view of a Zapier Table is a table view.
+- When a Zapier Table is open, table rows are shown by default. Each row represents a single record. 
+- The contents of each table row can also be viewed as a vertical popup. 
+
 - *Add GIF demonstrating the record view. Focus on the popup that opens on the right side of the screen.*
+
+- Locate the row number you want to view.
+- Move your cursor to the left side of the screen.
+- Hover your curser over the row number. 
+- As the curser hovers, the row number will change to a checkbox. Check the box to select the row.
+- Move the cursor slightly to the right of the checkbox. Four directional arrows and a popup label will appear that says 'View record details'. 
+- Click the directional arrows. 
+- A vertical popup will open on the right side of the screen. This popup contains all fields of the table row. 
+- Add, update, or delete content in each field. 
+- Close the popup by clicking the 'X' located in the upper right corner of the popup.
+
+STOP 10-21-2025
 
 ### Find a value within a Zapier Table 
 
@@ -117,6 +129,7 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 - There are 2 'Filter' icons visible from the table view; left side and top of the left table menu.
 - Add a PNG that focuses on the location of each 'Filter' icon within the table view. 
+- **NOTE:** The filter step settings only apply *to the current table*. You much reset the filter in the next table you open. Filter settings chosen in the first table will not be applied to other tables you open to view.
 
 ### Save a filter as a custom view
 
