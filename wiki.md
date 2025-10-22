@@ -77,23 +77,23 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 #### The table view is the default view.
 
-- When a Zapier Table is open, table rows are shown by default. Each row represents a single record. 
-- The contents of each table row can also be viewed as a vertical popup. 
+- When a Zapier Table is open, table rows are shown by default. Each row represents a single member record. 
+- The contents of each table row can also be viewed as a vertical popup on the right side of the screen.
 
 #### How to view a single record as a popup.
 
-- *Add GIF demonstrating the record view. Focus on the popup that opens on the right side of the screen.*
+![Open_and_edit_a_Zapier_Table_row_as_a_popup](/images/Open_and_edit_a_table_row_as_a_popup.png)
 
-- Locate the row number you want to view.
-- Move your cursor to the left side of the screen.
-- Hover your curser over the row number. 
-- As the curser hovers, the row number will change to a checkbox. Check the box to select the row.
-- Move the cursor slightly to the right of the checkbox. Four directional arrows and a popup label will appear that says 'View record details'. 
-- Click the directional arrows. 
-- A vertical popup will open on the right side of the screen. This popup contains all fields of the table row. 
-- Add, update, or delete content in each field. 
-- Close the popup by clicking the 'X' located in the upper right corner of the popup.
-- When the popup is closed, the Zapier Table reverts back to the table view. 
+1. Locate the row number you want to view. 
+2. Move your cursor to the left side of the screen. 
+3. Hover your curser over the row number. 
+4. As the curser hovers, the row number will change to a checkbox. Check the box to select the row. 
+5. Move the cursor slightly to the right of the checkbox. Four directional arrows and a popup label will appear that says 'View record details'. 
+6. Click the directional arrows. 
+7. A vertical popup will open on the right side of the screen. This popup contains all fields of the table row. 
+8. Add, update, or delete content in each field. 
+9. Close the popup by clicking the 'X' located in the upper right corner of the popup. 
+10. When the popup is closed, the Zapier Table reverts back to the table view. 
 
 STOP 10-21-2025
 
