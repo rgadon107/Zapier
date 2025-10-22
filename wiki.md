@@ -75,8 +75,12 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 ### Table and Record views within a Zapier Table
 
+#### The table view is the default view.
+
 - When a Zapier Table is open, table rows are shown by default. Each row represents a single record. 
 - The contents of each table row can also be viewed as a vertical popup. 
+
+#### How to view a single record as a popup.
 
 - *Add GIF demonstrating the record view. Focus on the popup that opens on the right side of the screen.*
 
@@ -89,6 +93,7 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 - A vertical popup will open on the right side of the screen. This popup contains all fields of the table row. 
 - Add, update, or delete content in each field. 
 - Close the popup by clicking the 'X' located in the upper right corner of the popup.
+- When the popup is closed, the Zapier Table reverts back to the table view. 
 
 STOP 10-21-2025
 
