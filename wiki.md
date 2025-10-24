@@ -84,43 +84,67 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 ![Open_and_edit_a_Zapier_Table_row_as_a_popup](/images/Open_and_edit_a_table_row_as_a_popup.png)
 
-1. Locate the row number you want to view. 
-2. Move your cursor to the left side of the screen. 
-3. Hover your curser over the row number. 
-4. As the curser hovers, the row number will change to a checkbox. Check the box to select the row. 
-5. Move the cursor slightly to the right of the checkbox. Four directional arrows and a popup label will appear that says 'View record details'. 
-6. Click the directional arrows. 
-7. A vertical popup will open on the right side of the screen. This popup contains all fields of the table row. 
-8. Add, update, or delete content in each field. 
-9. Close the popup by clicking the 'X' located in the upper right corner of the popup. 
-10. When the popup is closed, the Zapier Table reverts back to the table view. 
-
-STOP 10-21-2025
-
 ### Find a value within a Zapier Table 
 
-- Focus on the 'Search' field in the upper right corner of the screen.
-- Alt: use the keyboard shortcut 'Command + F' to open the search field.
+Use the built-in search field within a Zapier Table to search for any value within a field.
 
-- *Add GIF to demonstrate using the search field.* 
+![Search_for_a_term_in_a_Zapier_Table](/images/Search_for_a_term_in_a_Zapier_Table.png)
 
-### Add a row within a Zapier Table 
+#### Keyboard shortcut to open the 'search' field
 
-- *Add GIF: focus on the 'Add Record' button on the bottom left of the screen.*
+The alternative to clicking on the search field inside a Zapier table is to open it from the keyboard. 
+
+- (Mac) Press the 'Command' key and the 'F' key simultaneously. 
+- (Windows) Press the 'Control' key and the 'F' key simultaneously.
+
+### Add a new row to a Zapier Table 
+
+![Add_record_button_at_bottom_of_Zapier_Table](/images/Add_record_button_at_bottom_of_Zapier_Table.png)
+
+To add a new row to a Zapier Table, press the 'Add Record' button at the bottom left corner of the table. A new, empty table row will automatically be added at the bottom of the existing table.
 
 ### Edit a new or existing row within a Zapier Table
 
-- An existing table row can be edited within the row. 
+- Each field within a table row can be edited from the table view.
 - Alternatively, a table row can be edited within a record popup. 
-- Add a GIF that demonstrates adding data to a field within a table row, and then within a record popup. 
+- See above: **How to View a Single Record as a Popup** on how to add, edit, or delete content within a field.
 
 ### Show / Hide columns within a Zapier Table
 
-- There are 2 'Hide Fields' icons visible from the table view; left sidebar and the top left table menu. 
-- Add a PNG that focuses on each 'Hide Fields' icon. 
-- Add a GIF that demonstrates the the opening and closing of the 'Hide Fields' menu. 
-- Add a second GIF that demonstrates hiding / showing table columns. 
-- 
+Table columns and their fields can be hidden or displayed by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of table records. 
+
+#### Locating the 'Hidden Fields' menu icons in a Zapier Table
+
+![Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table](/images/Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table.png)
+
+There are 2 'Hidden Field' icons visible from the table view; they are located on the left sidebar and the top left table menu. 
+
+#### Open and Close the 'Hidden Fields' popup menu
+
+![Open_and_close_the_hide_fields_popup](/gifs/Open_and_close_the_hide_fields_popup.gif)
+
+The hidden fields popup menu can be toggled open or closed by clicking on an icon ( left sidebar ) or label ( top left corner of screen ).
+
+#### Create a custom view of a Zapier Table within the hidden fields popup menu
+
+The following example shows how to turn off multiple table columns to create a custom table view. Thirteen ( 13 ) of the table's 16 columns are hidden, leaving visible only the columns for Last Name, First Name, and Email. This custom view applies only to the current table. 
+
+![Create_custom_table_view_in_Zapier_Table](/gifs/Create_custom_table_view_in_Zapier_Table.gif)
+
+### Save a Custom Table View by Name
+
+If you regularly use a custom table view, you can save the view configuration by name. Using the previous example, the following video shows how to save a custom table view named 'My Custom View'. 
+
+![Save_a_custom_view_by_name](/gifs/Saving_a_custom_view_in_a_Zapier_Table.gif)
+
+When working again in this Zapier Table, you can quickly find and toggle between your saved custom view and the default table view ( see below ).
+
+![Toggle_between_a_custom_and_default_table_view](/gifs/Toggle_between_a_custom_and_default_table_view.gif)
+
+[For more information on custom views, refer to the Zapier documentation page **'Create views in Zapier Tables'** .](https://help.zapier.com/hc/en-us/articles/19097922477453-Create-views-in-Zapier-Tables#h_01H97S16MMDPSTTA4KPPV599Q6) 
+
+<<<STOP 10-23-2025>>>
+
 ### Sort Table columns alphabetically
 
 - Table columns that contain numbers or text can be sorted in ascending or descending order
@@ -168,7 +192,4 @@ STOP 10-21-2025
 
 ### Delete a row within a Zapier Table
 
-- Select the table to deleted. 
-- Select the 3 horizontal dot button in the upper right corner ( next to the 'Create+' button). 
-- Dialogue box will open with options: edit 1 record ( must be preselected ); copy 1 record to the clipboard; duplicate 1 record; regerate 1 record; or delecte 1 record. 
- - The 'Delete 1 record' operation will prompt for confirmation before the record opeation is completed. 
+![Delete_a_table_row_in_Zapier_Tables](/images/Delete_a_table_row_in_Zapier_Tables.png)
