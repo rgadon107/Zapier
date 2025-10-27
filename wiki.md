@@ -27,6 +27,7 @@ On hover, a popup will open that identifies you as an individual account holder 
 
 Once you are logged in to the club's Zapier account, move your curser to the left side of the screen to open the navigation panel.
 
+<<< Redo the gif. Leave only the browser tabs open that are necessary. >>>
 ![Open the Zapier Tables landing page from Zapier navigation](gifs/Opening_the_Tables_landing_page_from_Zapier_nav.gif)
 
 Move the cursor over the left sidebar and expose the navigation menu. Select the Tables nav item to open the Tables landing page.
@@ -69,7 +70,7 @@ Move your cursor over the name of a Zapier Table and click the table name to ope
 
 ![Zapier_Tables_4_browser_tabs_open_at_once](/images/Zapier_Tables_4_browser_tabs_open.png)
 
-To access 2 or more Zapier Tables at the same time, open each table in a separate browser tab. Select the table you want to view by navigating between tabs.  
+To access 2 or more Zapier Tables _at the same time_, open each table in a separate browser tab. Select the table you want to view by navigating between tabs.  
 
 In the example above, 4 tabs are shown side-by-side. From left to right, they include the Zapier Tables landing page (main table navigation) and 3 membership tables. 
 
@@ -88,6 +89,8 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 Use the built-in search field within a Zapier Table to search for any value within a field.
 
+<<<Edit or redo the .png file. Remove the term 'Alternatively:' >>>
+
 ![Search_for_a_term_in_a_Zapier_Table](/images/Search_for_a_term_in_a_Zapier_Table.png)
 
 #### Keyboard shortcut to open the 'search' field
@@ -96,6 +99,8 @@ The alternative to clicking on the search field inside a Zapier table is to open
 
 - (Mac) Press the 'Command' and letter 'F' key at the same time. 
 - (Windows) Press the 'Control' and letter 'F' key at the same time.
+
+Either keyboard command will open the search field in the upper right corner of the table. Proceed to search. 
 
 ### Add a new row to a Zapier Table 
 
@@ -113,7 +118,7 @@ To add a new row to a Zapier Table, press the 'Add Record' button in the bottom-
 
 Table columns and their fields can be hidden or displayed by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of table records. 
 
-#### Locating the 'Hidden Fields' menu icons in a Zapier Table
+#### Locate the 'Hidden Fields' menu icons in a Zapier Table
 
 ![Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table](/images/Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table.png)
 
@@ -125,7 +130,7 @@ There are 2 'Hidden Field' icons visible from the table view; they are located o
 
 The hidden fields popup menu can be toggled open or closed by clicking on an icon (left sidebar) or label (top left corner of screen).
 
-#### Create a custom view of a Zapier Table within the hidden fields popup menu
+#### Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu {#Create-Custom-View}
 
 The following example shows how to turn off multiple table columns to create a custom table view. Thirteen (13) of the table's 16 columns are hidden, leaving visible only the columns for Last Name, First Name, and Email. This custom view applies only to the current table. 
 
@@ -189,27 +194,60 @@ There are 2 ways to count the number of table rows (records) in a Zapier Table.
 1. Look at the bottom margin of a Zapier Table. The number of table rows visible in the current table view will be displayed.
    - IMPORTANT! For an accurate **total count** of all table rows in a table, unset _all table filters_. 
 
-
 2. Scroll down to the bottom of a table. Look along the left margin at the last table row number.
 
 The following image shows where to look at the bottom of a table for both items 1 and 2 above. 
 
 ![Finding_row_numbers_and_total_number_of_records_in_a_table](/images/Finding_row_numbers_and_total_number_of_records_in_a_table.png)
 
-<<<STOP 10-24-2025>>>
-
 ### Sum a count in a Table column
 
-- Useful for tables with event registrations.
-- A column sum can be displaced a the bottom of a table column (e.g. sum of registrations )
+Any column with a Number field type ( the column accepts whole or decimal numbers ) can sum the value of that column ( see below ).
+
+![Number_column_can_sum_total](/images/Number_column_can_sum_total.png)
+
+This is a useful feature in Zapier Tables that store event registration data such as the public garden tour, the awards banquet, and dinner reservations for monthly meetings.
 
 ### View ( read ) data from a Zapier Table
-- Read table data from left to right. 
-- The columns shown in a table row can be hidden by choice to display a smaller number of columns 
-  - ( see 'Hide Fields' filter option )
-- Download the table to a .csv file from the 'Download' menu item at the bottom of the column. 
-  - If the table is filtered, will the output be filtered as well? 
-- Consult the Google Sheet for current club member names amd form submission dates. [ membershipgcm@gmail.com].
+
+#### There are 4 ways to view (read) data from a Zapier Table.
+1. **Table view from within Zapier Tables:** read the table data from left to right. 
+2. **Select an individual table row (record) and view it as a popup.**
+3. **A custom table view from within Zapier Tables:** select table columns to hide and display only the columns you wish to see.
+  - [see 'Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu' above](#Create-Custom-View) 
+
+<<<STOP 10-27-2025 Make the following a step-by-step image file. >>>
+
+4. **As a download to your computer:** download the entire table or a custom table view to your computer. 
+   - Open the Zapier Table that you want to download.
+   
+   - (Optional) Select the table columns to view using the 'Hide Fields' menu.
+   
+   - Look at the bottom margin of the table for the 'Download' menu item.
+   
+   - Hover your cursor over the 'Download' label and click. 
+
+   ![Download_label_at_bottom_of_Zapier_Table](/images/Download_label_at_bottom_of_Zapier_Table.png)
+
+   - On click, a popup will appear that says "Downloading to .csv", followed by "Download complete".
+   
+   - The file will be saved to the 'Downloads' folder on your computer.
+   
+   - The file name will be the name of the Zapier Table with the date and time stamp added at the end. For example: 'Awards Banquet _ Registrations _ Production_2025-10-27T04_57_03.csv'.
+   
+   - The file extension will be .csv.
+   
+   - Your computer will attempt to open the file with whatever application you preselected to open .csv files (usually a spreadsheet).
+   
+   - The file will contain 3 columns of metadata that precede the table data. The metadata is 'table_record_id', 'tables_created_at', and 'tables_updated_at'. Delete those columns from the downloaded file.
+   
+   ![Filtered_Zapier_Table_after_download](/images/Filtered_Zapier_Table_after_download.png)
+
+   - Only Zapier Table columns that are visible in the table will be downloaded. 
+
+#### From Google Drive
+The Membership Committee maintains a Google Drive at the account address of 'membershipgcm@gmail.com'. Zapier sends the names of each renewing and new member to a spreadsheet located at 'GCM Currrent Membership List' >> 'GCM Current Membership List'.
+
 
 ### Delete a row within a Zapier Table
 
