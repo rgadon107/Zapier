@@ -1,4 +1,4 @@
-## Join the Garden Club team account on Zapier
+## Join the Garden Club of Minneapolis' team account on Zapier
 
 The Garden Club has a team account with Zapier.  If your club responsibilities involve access to club membership or event registration data stored in Zapier, request an invitation to join the club's Zapier account from an account administrator.
 
@@ -27,7 +27,6 @@ On hover, a popup will open that identifies you as an individual account holder 
 
 Once you are logged in to the club's Zapier account, move your curser to the left side of the screen to open the navigation panel.
 
-<<< Redo the gif. Leave only the browser tabs open that are necessary. >>>
 ![Open the Zapier Tables landing page from Zapier navigation](gifs/Opening_the_Tables_landing_page_from_Zapier_nav.gif)
 
 Move the cursor over the left sidebar and expose the navigation menu. Select the Tables nav item to open the Tables landing page.
@@ -89,24 +88,22 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 
 Use the built-in search field within a Zapier Table to search for any value within a field.
 
-<<<Edit or redo the .png file. Remove the term 'Alternatively:' >>>
-
 ![Search_for_a_term_in_a_Zapier_Table](/images/Search_for_a_term_in_a_Zapier_Table.png)
 
 #### Keyboard shortcut to open the 'search' field
 
-The alternative to clicking on the search field inside a Zapier table is to open it from the keyboard. 
+The alternative to clicking on the search field inside a Zapier table is to _open it from the keyboard_. 
 
 - (Mac) Press the 'Command' and letter 'F' key at the same time. 
 - (Windows) Press the 'Control' and letter 'F' key at the same time.
 
-Either keyboard command will open the search field in the upper right corner of the table. Proceed to search. 
+Either keyboard command will open the search field in the upper right corner of the table. Try it yourself. Then add a term to search in the search field.
 
 ### Add a new row to a Zapier Table 
 
 ![Add_record_button_at_bottom_of_Zapier_Table](/images/Add_record_button_at_bottom_of_Zapier_Table.png)
 
-To add a new row to a Zapier Table, press the 'Add Record' button in the bottom-left corner of the table. A new, empty table row will automatically be added to the bottom of the existing table.
+To add a new row to a Zapier Table, press the 'Add record' button in the bottom-left corner of the table. A new, empty table row will automatically be added to the bottom of the existing table.
 
 ### Edit a new or existing row within a Zapier Table
 
@@ -116,7 +113,7 @@ To add a new row to a Zapier Table, press the 'Add Record' button in the bottom-
 
 ### Show / Hide columns within a Zapier Table
 
-Table columns and their fields can be hidden or displayed by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of table records. 
+Table columns and their fields can be hidden or shown by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of one or more table records. 
 
 #### Locate the 'Hidden Fields' menu icons in a Zapier Table
 
@@ -179,13 +176,17 @@ There are 2 'Filter' icons visible from the table view. A 'Filter' menu label is
   - change the conditions of the filter, or 
   - filter on a different column.
 
-- **NOTE:** Filter settings only apply **to the current table**. Filter settings chosen in the first table will not apply to a differently named table.
+- **NOTE:** Filter settings only apply **to the current table view**. If you refresh your browser, the filter _will not persist_. You will have to reset it again. Likewise, if you open a different Zapier Table, the filter set in the first table will not persist and display in the new table. 
 
 ### Save a Filter by Name / Save a Custom View
 
 Like hidden fields, filters can also be saved by name. The following steps show how to name and save a filter for later use. 
 
 ![Save_a_table_filter_as_a_custom_view](/images/Save_a_table_filter_as_a_custom_view.png)
+
+The value of _saving a filter by name_ is that once saved, it can be reopened in one of two ways: 
+1. **From within the Zapier Table:** Find the 'Main Table' down-down menu located in the top-left corner of the table. Hover your cursor over the label and click to open it. Select any saved view file from within the drop-down menu. 
+2. **From the Zapier Tables landing page:** The names of saved filters are also listed on the 'Tables' landing page along with the names of the Zapier Tables available for view. 
 
 ### Count Table Rows ( Records )
 
@@ -214,40 +215,15 @@ This is a useful feature in Zapier Tables that store event registration data suc
 1. **Table view from within Zapier Tables:** read the table data from left to right. 
 2. **Select an individual table row (record) and view it as a popup.**
 3. **A custom table view from within Zapier Tables:** select table columns to hide and display only the columns you wish to see.
-  - [see 'Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu' above](#Create-Custom-View) 
-
-<<<STOP 10-27-2025 Make the following a step-by-step image file. >>>
+  - [see 'Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu' above](#Create-Custom-View)
 
 4. **As a download to your computer:** download the entire table or a custom table view to your computer. 
-   - Open the Zapier Table that you want to download.
-   
-   - (Optional) Select the table columns to view using the 'Hide Fields' menu.
-   
-   - Look at the bottom margin of the table for the 'Download' menu item.
-   
-   - Hover your cursor over the 'Download' label and click. 
 
-   ![Download_label_at_bottom_of_Zapier_Table](/images/Download_label_at_bottom_of_Zapier_Table.png)
-
-   - On click, a popup will appear that says "Downloading to .csv", followed by "Download complete".
-   
-   - The file will be saved to the 'Downloads' folder on your computer.
-   
-   - The file name will be the name of the Zapier Table with the date and time stamp added at the end. For example: 'Awards Banquet _ Registrations _ Production_2025-10-27T04_57_03.csv'.
-   
-   - The file extension will be .csv.
-   
-   - Your computer will attempt to open the file with whatever application you preselected to open .csv files (usually a spreadsheet).
-   
-   - The file will contain 3 columns of metadata that precede the table data. The metadata is 'table_record_id', 'tables_created_at', and 'tables_updated_at'. Delete those columns from the downloaded file.
-   
-   ![Filtered_Zapier_Table_after_download](/images/Filtered_Zapier_Table_after_download.png)
-
-   - Only Zapier Table columns that are visible in the table will be downloaded. 
+![Filter_Download_and_Format_Selected_Columns_from_a_Zapier_Table](/images/Filter Download and Format Selected Columns from a Zapier Table.png)
 
 #### From Google Drive
-The Membership Committee maintains a Google Drive at the account address of 'membershipgcm@gmail.com'. Zapier sends the names of each renewing and new member to a spreadsheet located at 'GCM Currrent Membership List' >> 'GCM Current Membership List'.
 
+The Membership Committee maintains a Google Drive at the account address 'membershipgcm@gmail.com'. The 'Membership Record Processing' Zap (data processing workflow) sends the names of each renewing and new member to a spreadsheet located at 'GCM Current Membership List' >> 'GCM Current Membership List'.
 
 ### Delete a row within a Zapier Table
 

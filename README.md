@@ -1,8 +1,19 @@
-## What the project does
-    - Introduces readers to Zapier;
-    - Summarizes the use of Zapier for managing club records;
-    - Directs readers to our wiki on how to access and view records in Zapier; and
-    - Introduces readers to features available within Zapier Tables.
+## About Zapier
+
+    - Zapier is a software-as-a-service platform that manages data for procesing, storage, and output. 
+    - It is used by the Garden Club of Minneapolis to process form submissions sent from the club website. 
+    - As of the current revision to this README.md, Zapier is used to process event registrations and memberships. 
+
+## About this wiki
+    - Wiki is a Hawaiin term that means quick or brief. 
+    - Wikis serve to provide information about software programs to visitors and users.
+    - This wiki describes how to: 
+        - access the club's Zapier team account, 
+        - find and open a Zapier Table, 
+        - filter Zapier Table data,
+        - save filtered data as a custom view,
+        - perform common tasks within Zapier Tables such as create(add), read(view), update(modify), or delete records (CRUD), and
+        - download Zapier Table data to your local computer.
 
 ## Why the project is useful
     - Zapier provides data processing and storage of club records within a team-based account.
@@ -14,3 +25,5 @@
 
 ## For questions or comments about this project
     - Contact Robert Gadon at rgadon107 at gmail dot com.
+
+Revision 0, 10-29-2025
