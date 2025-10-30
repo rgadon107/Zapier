@@ -1,4 +1,4 @@
-## Join the Garden Club of Minneapolis' team account on Zapier
+## Join the Garden Club of Minneapolis' Team Account on Zapier
 
 The Garden Club has a team account with Zapier.  If your club responsibilities involve access to club membership or event registration data stored in Zapier, request an invitation to join the club's Zapier account from an account administrator.
 
@@ -13,7 +13,7 @@ The email invitation will originate from Zapier at <notifications@mail.zapier.co
 
 If you requested team member access to Zapier from a team administrator, accept the invitation to join.
 
-## Create a personal Zapier account to access the club's team account
+## Create a Personal Zapier Account to Access the Club's Team Account
 
 [Create a Zapier account using the email address you provided for your account invitation.](https://zapier.com/)  Zapier will connect you to the club's team account.
 
@@ -23,7 +23,7 @@ After you log in, scroll your cursor over the black and white icon in the upper 
 
 On hover, a popup will open that identifies you as an individual account holder and a member of the club's organization account.
 
-## Open the Zapier Tables landing page from the Zapier navigation menu
+## Open the Zapier Tables Landing Page From the Zapier Navigation Menu
 
 Once you are logged in to the club's Zapier account, move your curser to the left side of the screen to open the navigation panel.
 
@@ -33,7 +33,7 @@ Move the cursor over the left sidebar and expose the navigation menu. Select the
 
 ## Zapier Tables
 
-### The Zapier Tables landing page
+### The Zapier Tables Landing Page
 
 ![Zapier Tables landing page](/images/Zapier_Tables_landing_page.png)
 
@@ -41,7 +41,7 @@ The Zapier Tables landing page will display all the tables that you are permitte
 
 Team members are assigned one of 2 table permissions; *viewer* or *editor*. A *viewer* can view (read) the table but cannot edit it. An *editor* can both view and edit a table.
 
-### Change the display order of Zapier Tables on the landing page
+### Change the Display Order of Zapier Tables on the Landing Page
 
 By default, Zapier Tables names are ordered by numbers (0-9) followed by letters (A-Z). Table file names that begin with a number (e.g. 2025) appear at the top of the landing page before file names that begin with a letter. 
 
@@ -57,7 +57,7 @@ Move your cursor over the 'Name' label at the top of the Tables page and click t
 
 Move your cursor over the name of a Zapier Table and click the table name to open it. The table will open in the same browser tab as the Tables landing page. 
 
-### Navigate from an open Zapier Table back to the Tables landing page
+### Navigate From an Open Zapier Table Back to the Tables Landing Page
 
 ![Zapier_Tables_table_navigation_items](/images/Zapier_Tables_table_nav_items.png)
 
@@ -73,9 +73,9 @@ To access two (2) or more Zapier Tables _at the same time_, open each table in a
 
 In the example above, four (4) tabs are shown side-by-side. From left to right, they include the Zapier Tables landing page (main table navigation) and three (3) membership tables. 
 
-### Table and Record views within a Zapier Table
+### Table and Record Views Within a Zapier Table
 
-#### The table view is the default view.
+#### The Table View is the Default View
 
 - When a Zapier Table is open, table rows are shown by default. Each row represents a single member record. 
 - The contents of each table row can also be viewed as a vertical popup on the right side of the screen.
@@ -94,17 +94,17 @@ The image below shows that this same team member (with initials PK) has the tabl
 
 When another team member opens the same Zapier Table as you, it's possible that the table contents could change while you are viewing it. Refresh your browser to confirm that any changes were made. 
 
-### How to view a single record as a popup.
+### How to View a Single Record as a Popup
 
 ![Open_and_edit_a_Zapier_Table_row_as_a_popup](/images/Open_and_edit_a_table_row_as_a_popup.png)
 
-### Find a value within a Zapier Table 
+### Find (Search For) a Value Within a Zapier Table 
 
 Use the built-in search field within a Zapier Table to search for any value within a field.
 
 ![Search_for_a_term_in_a_Zapier_Table](/images/Search_for_a_term_in_a_Zapier_Table.png)
 
-#### Keyboard shortcut to open the 'search' field
+#### Keyboard Shortcut to Open the 'Search' Field
 
 The alternative to clicking on the search field inside a Zapier table is to _open it from the keyboard_. 
 
@@ -113,35 +113,39 @@ The alternative to clicking on the search field inside a Zapier table is to _ope
 
 Either keyboard command will open the search field in the upper right corner of the table. Try it yourself. Then add a term to search in the search field.
 
-### Add a new row to a Zapier Table 
+### Add a New Row to a Zapier Table 
 
 ![Add_record_button_at_bottom_of_Zapier_Table](/images/Add_record_button_at_bottom_of_Zapier_Table.png)
 
 To add a new row to a Zapier Table, press the 'Add record' button in the bottom-left corner of the table. A new, empty table row will automatically be added to the bottom of the existing table.
 
-### Edit a new or existing row within a Zapier Table
+### Edit a New or Existing Row Within a Zapier Table
 
 - Each field within a table row can be edited from the table view.
 - Alternatively, a table row can be edited within a record popup. 
 - See above: **How to View a Single Record as a Popup** on how to add, edit, or delete content within a field.
 
-### Show / Hide columns within a Zapier Table
+### Delete a Row Within a Zapier Table
+
+![Delete_a_table_row_in_Zapier_Tables](/images/Delete_a_table_row_in_Zapier_Tables.png)
+
+### Show / Hide Columns Within a Zapier Table
 
 Table columns and their fields can be hidden or shown by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of one or more table records. 
 
-#### Locate the 'Hidden Fields' menu icons in a Zapier Table
+#### Locate the 'Hidden Fields' Menu Icons in a Zapier Table
 
 ![Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table](/images/Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table.png)
 
 There are two (2) 'Hidden Field' icons visible from the table view; they are located on the left sidebar and the top left table menu. 
 
-#### Open and Close the 'Hidden Fields' popup menu
+#### Open and Close the 'Hidden Fields' Popup Menu
 
 ![Open_and_close_the_hide_fields_popup](/gifs/Open_and_close_the_hide_fields_popup.gif)
 
 The hidden fields popup menu can be toggled open or closed by clicking on an icon (left sidebar) or label (top left corner of screen).
 
-#### Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu {#Create-Custom-View}
+#### Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu 
 
 The following example shows how to turn off multiple table columns to create a custom table view. Thirteen (13) of the table's 16 columns are hidden, leaving visible only the columns for Last Name, First Name, and Email. This custom view applies only to the current table. 
 
@@ -159,7 +163,7 @@ When working again in this Zapier Table, you can quickly find and toggle between
 
 [For more information on custom views, refer to the Zapier documentation page **'Create views in Zapier Tables'** .](https://help.zapier.com/hc/en-us/articles/19097922477453-Create-views-in-Zapier-Tables#h_01H97S16MMDPSTTA4KPPV599Q6)
 
-### Sort Table columns alphabetically
+### Sort Table Columns Alphabetically
 
 Table columns that contain numbers or text can be sorted in ascending or descending order.
 
@@ -215,7 +219,7 @@ The following image shows where to look at the bottom of a table for both items 
 
 ![Finding_row_numbers_and_total_number_of_records_in_a_table](/images/Finding_row_numbers_and_total_number_of_records_in_a_table.png)
 
-### Sum a count in a Table column
+### Sum a Count in a Table Column
 
 Any column with a Number field type (the column accepts whole or decimal numbers) can sum the value of that column (see below).
 
@@ -223,9 +227,9 @@ Any column with a Number field type (the column accepts whole or decimal numbers
 
 This is a useful feature in Zapier Tables that store event registration data such as the public garden tour, the awards' banquet, and dinner reservations for monthly meetings.
 
-### View (read) data from a Zapier Table
+### View (Read) Data From a Zapier Table
 
-#### There are four (4) ways to view (read) data from a Zapier Table.
+#### There Are Four (4) Ways to View (Read) Data From a Zapier Table
 1. **Table view from within Zapier Tables:** read the table data from left to right. 
 2. **Select an individual table row (record) and view it as a popup.**
 3. **A custom table view from within Zapier Tables:** select table columns to hide and display only the columns you wish to see.
@@ -236,7 +240,3 @@ This is a useful feature in Zapier Tables that store event registration data suc
 #### From Google Drive
 
 The Membership Committee maintains a Google Drive at the account address 'membershipgcm@gmail.com.' The 'Membership Record Processing' Zap (data processing workflow) sends the names of each renewing and new member to a spreadsheet located at 'GCM Current Membership List' >> 'GCM Current Membership List.'
-
-### Delete a row within a Zapier Table
-
-![Delete_a_table_row_in_Zapier_Tables](/images/Delete_a_table_row_in_Zapier_Tables.png)

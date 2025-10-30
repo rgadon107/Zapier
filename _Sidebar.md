@@ -1,0 +1,32 @@
+- Join the Garden Club of Minneapolis' Team Account on Zapier
+- Create a Personal Zapier Account to Access the Club's Team Account
+- Open the Zapier Tables Landing Page From the Zapier Navigation Menu
+- Zapier Tables
+  - The Zapier Tables Landing Page
+  - Change the Display Order of Zapier Tables on the Landing Page
+  - Open a Zapier Table
+  - Navigate From an Open Zapier Table Back to the Tables Landing Page
+  - Navigate Between Multiple Zapier Tables Open at the Same Time
+  - Table and Record Views Within a Zapier Table
+    - The Table View is the Default View
+    - Multiple Team Members Can View a Zapier Table at the Same Time
+  - How to View a Single Record as a Popup
+  - Find (Search For) a Value Within a Zapier Table
+    - Keyboard Shortcut to Open the 'Search' Field
+  - Add a New Row to a Zapier Table 
+  - Edit a New or Existing Row Within a Zapier Table
+  - Delete a Row Within a Zapier Table
+  - Show / Hide Columns Within a Zapier Table
+    - Locate the 'Hidden Fields' Menu Icons in a Zapier Table
+    - Open and Close the 'Hidden Fields' Popup Menu
+    - Create a Custom View of a Zapier Table Within the Hidden Fields Popup Menu
+  - Save a Custom Table View by Name
+  - Sort Table Columns Alphabetically
+  - Filter Columns Within a Zapier Table
+  - Save a Filter by Name / Save a Custom View
+  - Count Table Rows (Records)
+  - Sum a Count in a Table Column
+  - View (Read) Data From a Zapier Table
+    - There Are Four (4) Ways to View (Read) Data From a Zapier Table
+    - From Google Drive
+ 
