@@ -80,7 +80,21 @@ In the example above, 4 tabs are shown side-by-side. From left to right, they in
 - When a Zapier Table is open, table rows are shown by default. Each row represents a single member record. 
 - The contents of each table row can also be viewed as a vertical popup on the right side of the screen.
 
-#### How to view a single record as a popup.
+#### Multiple Team Members Can View a Zapier Table at the Same Time
+
+When two or more team members have administrative access to the same Zapier Table, it's possible for those team members to view that table at the same time. 
+
+The image below shows that another team member is viewing the same Zapier Table open on your desktop. The letter 'P' surrounded by a red circle at the top of the Zapier Table means that a team member who's name begins with that letter has the same table open on their desktop as you. 
+
+![Fellow_team_member_is_also_logged_in](/images/Fellow team member is also logged in.png)
+
+The image below shows that this same team member (with initials PK) has the table row (record) for row number 1 open on their desktop. 
+
+![Fellow_team_member_is_also_logged_in_and_has_record_open_image_2](/images/Fellow team member is also logged in_2.png)
+
+When another team member opens the same Zapier Table as you, it's possible that the table contents could change while you are viewing it. Refresh your browser to confirm that any changes were made. 
+
+### How to view a single record as a popup.
 
 ![Open_and_edit_a_Zapier_Table_row_as_a_popup](/images/Open_and_edit_a_table_row_as_a_popup.png)
 
