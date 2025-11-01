@@ -1,4 +1,4 @@
-- Join the Garden Club of Minneapolis' Team Account on Zapier
+- [[Join the Garden Club of Minneapolis' Team Account on Zapier | https://github.com/rgadon107/Zapier/wiki/wiki.md#Join-the-Garden-Club-of-Minneapolis'-Team-Account-on-Zapier]]
 - Create a Personal Zapier Account to Access the Club's Team Account
 - Open the Zapier Tables Landing Page From the Zapier Navigation Menu
 - Zapier Tables
