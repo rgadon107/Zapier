@@ -15,7 +15,7 @@ If you requested team member access to Zapier from a team administrator, accept 
 
 ## Create a Personal Zapier Account to Access the Club's Team Account
 
-[Create a Zapier account using the email address you provided for your account invitation.](https://zapier.com/)  Zapier will connect you to the club's team account.
+[Create a Zapier account using the email address you provided for your account invitation.](https://zapier.com/sign-up)  On login, Zapier will connect you to the club's team account.
 
 After you log in, scroll your cursor over the black and white icon in the upper right corner of your screen.
 
