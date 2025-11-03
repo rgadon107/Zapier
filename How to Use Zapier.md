@@ -104,7 +104,7 @@ Use the built-in search field within a Zapier Table to search for any value with
 
 ![Search_for_a_term_in_a_Zapier_Table](/assets/images/Search_for_a_term_in_a_Zapier_Table.png)
 
-#### Keyboard Shortcut to Open the 'Search' Field
+#### Keyboard Shortcut to Open the Search Field
 
 The alternative to clicking on the search field inside a Zapier table is to _open it from the keyboard_. 
 
@@ -129,17 +129,17 @@ To add a new row to a Zapier Table, press the 'Add record' button in the bottom-
 
 ![Delete_a_table_row_in_Zapier_Tables](/assets/images/Delete_a_table_row_in_Zapier_Tables.png)
 
-### Show / Hide Columns Within a Zapier Table
+### Show or Hide Columns Within a Zapier Table
 
 Table columns and their fields can be hidden or shown by the checkboxes selected in the 'Hidden Fields' popup. This allows one to create a custom view of one or more table records. 
 
-#### Locate the 'Hidden Fields' Menu Icons in a Zapier Table
+#### Locate the Hidden Fields Menu Icons in a Zapier Table
 
 ![Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table](/assets/images/Open_the_hidden_fields_menu_from_the_top_or_side_of_the_table.png)
 
 There are two (2) 'Hidden Field' icons visible from the table view; they are located on the left sidebar and the top left table menu. 
 
-#### Open and Close the 'Hidden Fields' Popup Menu
+#### Open and Close the Hidden Fields Popup Menu
 
 ![Open_and_close_the_hide_fields_popup](/assets/gifs/Open_and_close_the_hide_fields_popup.gif)
 
@@ -196,7 +196,7 @@ There are two (2) 'Filter' icons visible from the table view. A 'Filter' menu la
 
 - **NOTE:** Filter settings only apply **to the current table view**. If you refresh your browser, the filter _will not persist_. You will have to reset it again. Likewise, if you open a different Zapier Table, the filter set in the first table will not persist and display in the new table. 
 
-### Save a Filter by Name / Save a Custom View
+### Save a Filter by Name or Save a Custom View
 
 Like hidden fields, filters can also be saved by name. The following steps show how to name and save a filter for later use. 
 
