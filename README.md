@@ -25,9 +25,9 @@
     - This wiki provides documentation on how to access the club's Zapier account and use Zapier Tables.
 
 ## How users can get started with the project
-    - If content in the README or wiki is no longer applicable or outdated, please post an issue.
+    - If content in the README or wiki is no longer applicable or outdated, please contact an administrator of the club's Zapier account.
 
 ## For questions or comments about this project
     - Contact Robert Gadon at rgadon107 at gmail dot com.
 
-Revision 0, 10-29-2025
+Revision 1, 11-03-2025
