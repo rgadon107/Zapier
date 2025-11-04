@@ -15,6 +15,10 @@
         - perform common tasks within Zapier Tables such as create(add), read(view), update(modify), or delete records (CRUD), and
         - download Zapier Table data to your local computer.
 
+## How to open the wiki
+    - Follow the steps shown below to open the wiki on this site. 
+![How_to_Use_Zapier_GitHub_Steps](images/How_to_Use_Zapier_Github_Steps.png)
+
 ## Why the project is useful
     - Zapier provides data processing and storage of club records within a team-based account.
     - Data is stored independent of individual accounts and personal computer operating systems.
