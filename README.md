@@ -5,7 +5,7 @@
     - As of the current revision to this README.md, Zapier is used to process event registrations and memberships. 
 
 ## About this wiki
-    - Wiki is a Hawaiin term that means quick or brief. 
+    - Wiki is a Hawaiian term that means quick or brief. 
     - Wikis serve to provide information about software programs to visitors and users.
     - This wiki describes how to: 
         - access the club's Zapier team account, 
@@ -24,10 +24,8 @@
     - Data is stored independent of individual accounts and personal computer operating systems.
     - This wiki provides documentation on how to access the club's Zapier account and use Zapier Tables.
 
-## How users can get started with the project
-    - If content in the README or wiki is no longer applicable or outdated, please contact an administrator of the club's Zapier account.
-
 ## For questions or comments about this project
+    - If content in the README or wiki is no longer applicable or outdated, please contact an administrator of the club's Zapier account.
     - Contact Robert Gadon at rgadon107 at gmail dot com.
 
 Revision 1, 11-03-2025
