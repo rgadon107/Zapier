@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changes
 - [Alternate: Open Zapier Tables from the Tables Landing Page](https://github.com/rgadon107/Zapier/wiki/How-to-Use-Zapier#alternate-open-zapier-tables-from-the-tables-landing-page)
+- [How to Navigate Between Zapier Tables](https://github.com/rgadon107/Zapier/wiki/How-to-Use-Zapier#how-to-navigate-between-zapier-tables)
 - updated images, gifs, and in-document navigation links. 
 
 ## [1.0.0] - 2025-11-03
