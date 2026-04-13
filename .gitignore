@@ -1,0 +1,13 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.xml
+
+
+# Optional OS clutter
+.DS_Store
+Thumbs.db
+
+# Optional markdown editor backups
+*.swp
+*.tmp
